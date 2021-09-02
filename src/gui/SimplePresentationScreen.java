@@ -6,12 +6,10 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
-
 import entities.Student;
 import javax.swing.JTabbedPane;
 import java.awt.Toolkit;
 import java.text.SimpleDateFormat;
-
 import javax.swing.JLabel;
 import java.awt.Font;
 import java.awt.Color;

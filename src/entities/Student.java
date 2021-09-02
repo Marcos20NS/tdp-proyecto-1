@@ -16,6 +16,8 @@ public class Student {
 		this.mail = mail;
 		this.githubURL = githubURL;
 		this.pathPhoto = pathPhoto;
+		
+		
 	}
 	
 	public int getId() {
